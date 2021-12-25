@@ -1,11 +1,11 @@
 {
     "name": "composer require pendb/pendb-library",
     "description": "Package for testing packagist",
-    "type": "project",
+    "type": "cms",
     "license": "MIT",
    "authors": [
             {
-                "name": "penkoding"
+                "name": "pen koding"
             }
         ],
     "autoload": {
