@@ -3,7 +3,7 @@
     "description": "PHP Database Library",
     "type": "library",
     "license": "MIT",
-   "authors": [
+    "authors": [
             {
                 "name": "pen koding"
             }
@@ -15,7 +15,6 @@
       ]
     },
     "require": {
-    "phpunit/phpunit":"^5",
     "php":">=7.4"
     }
 }
