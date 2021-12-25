@@ -1,24 +1,21 @@
 {
-   "name":"pendb/pendb-library",
-   "description":"Simple PHP Database Library",
-   "license":"MIT",
-   "authors":[
-      {
-         "name":"Irsyad",
-         "website":"https://irsyadmaulana.web.id/"
-      },
-      {
-         "name":"Rizky Tegar",
-         "website":"https://rizkytegar.com"
-      }
-   ],
-   "autoload":{
-      "classmap":[
+    "name": "composer require pendb/pendb-library",
+    "description": "Package for testing packagist",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PenKoding",
+            "Github": "https://github.com/penkoding"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Abc\\": "src/xyz"},
+        "classmap":[
          "src/"
       ]
-   },
-   "require-dev":{
-      "phpunit/phpunit":"^5",
-      "php":">=7.4"
-   }
+    },
+    "require": {},
+    "minimum-stability": "dev",
+    "phpunit/phpunit":"^5",
+    "php":">=7.4"
 }
