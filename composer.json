@@ -1,7 +1,6 @@
 {
    "name":"pendb/pendb-library",
    "description":"Simple PHP Database Library",
-   "type":"library",
    "license":"MIT",
    "authors":[
       {
