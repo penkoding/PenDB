@@ -1,7 +1,12 @@
 [![PHP Composer](https://github.com/penkoding/PenDB/actions/workflows/php.yml/badge.svg?branch=master)](https://github.com/penkoding/PenDB/actions/workflows/php.yml)
 
+# Clone Repository
 
-# Installation
+```
+git clone https://github.com/penkoding/PenDB
+```
+
+# Installation Library
 
 ```
 composer require pendb/pendb-library
