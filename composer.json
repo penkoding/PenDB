@@ -1,6 +1,6 @@
 {
-    "name": "composer require pendb/pendb-library",
-    "description": "Package for testing packagist",
+    "name": "pendb/pendb-library",
+    "description": "PHP Database Library",
     "type": "cms",
     "license": "MIT",
    "authors": [
