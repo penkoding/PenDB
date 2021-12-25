@@ -1,6 +1,19 @@
 {
     "name": "pendb/pendb-library",
     "description": "Simple PHP Database Library",
+    "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Irsyad",
+      "website": "https://irsyadmaulana.web.id/"
+    },
+      
+    {
+      "name": "Rizky Tegar",
+      "website": "https://rizkytegar.com"
+    }
+  ],
     "autoload": {
         "classmap": [
             "src/"
