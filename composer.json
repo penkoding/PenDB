@@ -1,7 +1,7 @@
 {
     "name": "pendb/pendb-library",
     "description": "PHP Database Library",
-    "type": "cms",
+    "type": "library",
     "license": "MIT",
    "authors": [
             {
@@ -15,7 +15,6 @@
       ]
     },
     "require": {
-    "minimum-stability": "dev",
     "phpunit/phpunit":"^5",
     "php":">=7.4"
     }
