@@ -3,13 +3,11 @@
     "description": "Package for testing packagist",
     "type": "project",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "penkoding",
-            "Github": "penkoding"
-        }
-       ],
-    
+   "authors": [
+            {
+                "name": "penkoding"
+            }
+        ],
     "autoload": {
         "psr-4": {"Abc\\": "src/xyz"},
         "classmap":[
