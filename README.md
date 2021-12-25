@@ -1,2 +1,5 @@
-# PenDB
-PHP Database Helper
+# Installation
+
+```
+composer require pendb/pendb-library
+```
