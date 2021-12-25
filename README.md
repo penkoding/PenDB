@@ -4,9 +4,8 @@
 composer require pendb/pendb-library
 ```
 
-# Require
+# Require Dev
 
 ```
-    "phpunit/phpunit":"^5",
-    "php":">=7.4"
+  "php":">=7.4"
 ```
