@@ -1,6 +1,7 @@
 {
     "name": "composer require pendb/pendb-library",
     "description": "Package for testing packagist",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
@@ -14,8 +15,9 @@
          "src/"
       ]
     },
-    "require": {},
+    "require": {
     "minimum-stability": "dev",
     "phpunit/phpunit":"^5",
     "php":">=7.4"
+    }
 }
